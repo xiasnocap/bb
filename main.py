@@ -11,7 +11,7 @@
     The software licensed under Mozilla Public License Version 2.0
 """
 
-Admin = [""]
+Admin = ["u0dedae6e6ff204f52f2e4a096630ea82"]
 KickLimit = 10
 CancelLimit = 10
 Language = "en"
